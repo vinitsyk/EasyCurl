@@ -2,8 +2,6 @@
 #define get_hxx_included
 
 #include <string>
-#include <sstream>
-#include <iostream>
 #include <curl/curl.h>
 
 class Get {
