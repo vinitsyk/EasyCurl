@@ -7,5 +7,6 @@
 #include <curl/curl.h>
 
 #include "get.hxx"
+#include "post.hxx"
 
 #endif
