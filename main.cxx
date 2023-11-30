@@ -39,7 +39,7 @@ auto testPost () -> void {
 
 auto main ( int args, const char* params[] ) -> int {
 
-    testPost();
+    testGet();
 
     return 0x00;
 }
